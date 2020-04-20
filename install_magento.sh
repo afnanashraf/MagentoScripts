@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MAGENTO2_REPO=https://raw.githubusercontent.com/clean-docker/Magento2/master/init
+MAGENTO2_REPO=https://raw.githubusercontent.com/afnanashraf/Magento2/master/init
 # MAGENTO2_PATH=/home/magento/
 
 #$1 is function name
