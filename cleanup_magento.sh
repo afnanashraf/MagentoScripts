@@ -12,9 +12,3 @@ if [ $? -eq 0 ]; then
 else
     echo FAIL
 fi
-
-
-
-
-
-
